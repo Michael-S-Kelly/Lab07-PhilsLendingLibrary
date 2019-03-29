@@ -4,7 +4,21 @@ using System.Text;
 
 namespace PhilsLendingLibrary.Classes
 {
-    class Library
+    public class Library
     {
+        public void Add()
+        {
+
+        }
+
+        public void Remove()
+        {
+
+        }
+
+        public int Count()
+        {
+            return 0;
+        }
     }
 }
