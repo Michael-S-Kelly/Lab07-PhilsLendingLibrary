@@ -4,9 +4,7 @@ using System.Text;
 
 namespace PhilsLendingLibrary.Classes
 {
-    class Author
+    class Library
     {
-        public string AuthorName { get; set; }
-        public string[] BooksWritten { get; set; }
     }
 }
