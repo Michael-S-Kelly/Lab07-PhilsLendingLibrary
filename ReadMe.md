@@ -33,8 +33,11 @@ Then select and open ```PhilsLendingLibrary.sln```
 
 
 ##### Application Start
-![Image 1](WordGuessingGame/Assets/MainNav.PNG)
-
+![Image 1](Assets/NavMenu.PNG)
+##### Invalid Menu Choice
+![Image 1](Assets/InvalidNavChoice.PNG)
+##### Application End
+![Image 1](Assets/EndProgram.PNG)
 
 ------------------------------
 
